@@ -1,0 +1,7 @@
+{
+  "name": "pruebaPasantia2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
