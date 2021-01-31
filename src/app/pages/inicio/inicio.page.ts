@@ -49,6 +49,11 @@ export class InicioPage implements OnInit {
       name: 'Date',
       redirectTo: '/date-time'
     },
+    {
+      icon: 'add-outline',
+      name: 'Fab', //boton flotante
+      redirectTo: '/fab'
+    },
   ];
   constructor() { }
 
