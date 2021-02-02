@@ -54,6 +54,26 @@ export class InicioPage implements OnInit {
       name: 'Fab', //boton flotante
       redirectTo: '/fab'
     },
+    {
+      icon: 'grid-outline',
+      name: 'Grid', 
+      redirectTo: '/grid'
+    },
+    {
+      icon: 'reload-outline',
+      name: 'Infinite scroll', 
+      redirectTo: '/infinite-scroll'
+    },
+    {
+      icon: 'hammer-outline',
+      name: 'Input', 
+      redirectTo: '/input'
+    },
+    {
+      icon: 'list-outline',
+      name: 'List', 
+      redirectTo: '/list'
+    },
   ];
   constructor() { }
 
